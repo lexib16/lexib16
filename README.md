@@ -9,8 +9,6 @@
 - 😄 Pronouns: We only...
 - ⚡ Fun fact:
 
-![Fun&Laugh](https://thecodinglove.com/content/011/bXsruwt.jpg)
-
 <div align="center">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=63170347)
