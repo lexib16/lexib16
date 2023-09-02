@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lexib16
 - 👀 I’m interested in learning all about coding
 - 🌱 I’m currently learning JavaScript in Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projecf
 - 📫 How to reach me lexio9211@gmail.com
 
 <!---
