@@ -27,3 +27,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haliscadirci&langs_count=12&hide=javascript,html,CSS,Less&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lexib16)](https://git.io/streak-stats)
