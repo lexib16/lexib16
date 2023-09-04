@@ -1,7 +1,7 @@
 👋
 
-- 🔭 I’m currently seeking work & life ballance.
-- 🌱 I’m currently learning Terratest.
+- 🔭 I’m currently seeking work & life balance.
+- 🌱 I’m currently learning html/ Javascript/ python 
 - 👯 I’m looking to collaborate on IT with everyone.
 - 🤔 I’m looking for help with finding my next position.
 - 💬 Ask me about Git.
