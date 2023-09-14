@@ -28,3 +28,6 @@
 
 </div>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lexib16)](https://git.io/streak-stats)
+
+
+[![lexi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lexib16)](https://github.com/lexib16/github-readme-stats)
