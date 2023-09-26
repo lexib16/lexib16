@@ -11,7 +11,7 @@
 
 <div align="center">
 
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=63170347)
+
 
 ![image](https://github.com/lexib16/lexib16/assets/143358063/68bff6f6-dd67-4b38-a343-064fc2a8aef4)
 
