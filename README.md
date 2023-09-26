@@ -1,13 +1,13 @@
-👋
+                                                           
 
-- 🔭 I’m currently seeking work & life balance.
-- 🌱 I’m currently learning html/ Javascript/ python 
-- 👯 I’m looking to collaborate on IT with everyone.
-- 🤔 I’m looking for help with finding my next position.
-- 💬 Ask me about Git.
-- 📫 How to reach me: lexio9211@gmail.com
-- 😄 Pronouns: We only...
-- ⚡ Fun fact:
+                                               - 🔭 I’m currently working on becomeing a Full Stack Developer
+                                               - 🌱 I’m currently learning html/ Javascript/ python 
+                                               - 👯 I’m looking to collaborate on IT with everyone.
+                                               - 🤔 I’m looking for help with finding a position as a front end developer.
+                                               - 💬 Ask me about Git.
+                                               - 📫 How to reach me: lexio9211@gmail.com
+                                               - 😄 Pronouns: We only...
+                                               - ⚡ Fun fact: I'm in the medical feild
 
 <div align="center">
 
