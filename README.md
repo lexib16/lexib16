@@ -6,6 +6,7 @@
 - 🤔 I’m looking for help with finding a position as a front end developer.
 - 💬 Ask me about Git.
 - 📫 How to reach me: lexio9211@gmail.com
+- Linkedin|https://www.linkedin.com/in/alexis-bellamy-114335108/
 - 😄 Pronouns: We only...
 - ⚡ Fun fact: I'm in the medical feild
 
