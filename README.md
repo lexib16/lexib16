@@ -1,14 +1,14 @@
                                                            
 
 - 🔭 I’m currently working on becomeing a Full Stack Developer
-- 🌱 I’m currently learning html/ Javascript/ python 
+- 🌱 I’m currently learning react| python|
 - 👯 I’m looking to collaborate on IT with everyone.
 - 🤔 I’m looking for help with finding a position as a front end developer.
 - 💬 Ask me about Git.
 - 📫 How to reach me: lexio9211@gmail.com
 - Linkedin|https://www.linkedin.com/in/alexis-bellamy-114335108/
 - 😄 Pronouns: We only...
-- ⚡ Fun fact: I'm in the medical feild
+- ⚡ Fun fact: The yo-yo was originally a weapon used in the Philippine jungle!
 
 <div align="center">
 
